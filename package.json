@@ -1,0 +1,29 @@
+{
+  "name": "swiggydemo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Subrat-Kumar-Rout/Counting-Cart-Demo-using-React.gi#readme",
+  "bugs": {
+    "url": "https://github.com/Subrat-Kumar-Rout/Counting-Cart-Demo-using-React.gi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subrat-Kumar-Rout/Counting-Cart-Demo-using-React.gi.git"
+  },
+  "license": "ISC",
+  "author": "Subrat Kumar Rout",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.11.2",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-redux": "^9.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}

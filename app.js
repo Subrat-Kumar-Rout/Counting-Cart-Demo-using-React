@@ -2,6 +2,8 @@ import React from "react"
 import ReactDOM from "react-dom/client"
 import Header from "./header"
 import Card from "./card"
+import { Provider } from 'react-redux';
+import { store } from './store';
 
 
 let arr = [
@@ -38,4 +40,7 @@ function Swigy(){
     )
 }
 
-ReactDOM.createRoot(document.getElementById("root")).render(<Swigy></Swigy>)
+ReactDOM.createRoot(document.getElementById("root")).render(
+<Provider store={store}>
+<Swigy></Swigy>
+</Provider>)

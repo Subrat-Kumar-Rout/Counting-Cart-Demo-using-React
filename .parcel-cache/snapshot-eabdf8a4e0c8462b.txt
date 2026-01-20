@@ -1,4 +1,4 @@
-4119
+4117
 63E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\nullthrows134134003450943815 1
 89E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\watcher\src\watchman\BSER.cc134134003451847508 0
 94E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\features\shadowdomv1.js134134003474993684 0
@@ -12,21 +12,21 @@
 88E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\update-browserslist-db\package.json134134003451411384 0
 95E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\react-redux\src\connect\selectorFactory.ts134134003561454858 0
 92E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\features\proximity.js134134003474183430 0
-46E:\WebDevRohitVSCODE\React_Folder\part7\app.js134134019165353397 0
+46E:\WebDevRohitVSCODE\React_Folder\part7\app.js134134125168637116 0
 84E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\regions\MA.js134134003472222445 0
 61E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@reduxjs134134003557012834 1
-47E:\WebDevRohitVSCODE\React_Folder\part7\card.js134133994903675787 0
+47E:\WebDevRohitVSCODE\React_Folder\part7\card.js134134116284031107 0
 106E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c134134003461953797 0
 81E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\transformer-json\src134134003448731249 1
 83E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\transformer-js\LICENSE134134003446907883 0
 85E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\redux-thunk\dist\redux-thunk.mjs134134003558781672 0
 111E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT134134003450117872 0
-49E:\WebDevRohitVSCODE\React_Folder\part7\header.js134134017598481577 0
+49E:\WebDevRohitVSCODE\React_Folder\part7\header.js134134126138291716 0
 61E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\escalade134134003452804634 1
 103E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure134134003465737066 1
 94E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\msgpackr-extract\node_modules\detect-libc134134003452463814 1
 99E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\features\css-nth-child-of.js134134003466538139 0
-44E:\WebDevRohitVSCODE\React_Folder\part7\dist134134018535431472 1
+44E:\WebDevRohitVSCODE\React_Folder\part7\dist134134126139804057 1
 102E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\features\css-scroll-behavior.js134134003466894034 0
 84E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\regions\GI.js134134003470036063 0
 78E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\lightningcss\node_modules134134003440221944 1
@@ -60,7 +60,7 @@
 98E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\features\offscreencanvas.js134134003473443366 0
 84E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\regions\TO.js134134003475960890 0
 103E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\caniuse-lite\data\features\intersectionobserver.js134134003471272596 0
-49E:\WebDevRohitVSCODE\React_Folder\part7\slice1.js134133995053259971 0
+49E:\WebDevRohitVSCODE\React_Folder\part7\slice1.js134134136211815864 0
 89E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\config-default\test\.babelrc134134003447223994 0
 98E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp134134003447615177 0
 110E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js134134003454639727 0
@@ -685,7 +685,7 @@
 80E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\lmdb\src\ordered-binary.cpp134134003463353323 0
 100E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@swc\helpers\_\_is_native_function\package.json134134003466556043 0
 100E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js134134003455957012 0
-63E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.3a01df49.css134134018535411475 0
+63E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.3a01df49.css134134125115565469 0
 74E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\safe-buffer\README.md134134003449355215 0
 81E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\package-manager\test134134003457233353 1
 75E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\semver\functions\lt.js134134003456545913 0
@@ -2862,7 +2862,7 @@
 81E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@swc\helpers\_\_to_primitive134134003467014177 1
 84E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@swc\helpers\_\_to_property_key134134003467014177 1
 95E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@swc\helpers\_\_ts_add_disposable_resource134134003467062381 1
-62E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.f72d0d54.js134134018534938144 0
+62E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.f72d0d54.js134134126139636820 0
 81E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@swc\helpers\_\_ts_generator134134003467062381 1
 80E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@swc\helpers\_\_ts_metadata134134003467062381 1
 69E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@reduxjs\toolkit134134003565960303 1
@@ -3711,7 +3711,6 @@
 92E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\transformer-babel\src\babel7.js134134003448963716 0
 102E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\transformer-babel\src\BabelTransformer.js134134003452463814 0
 95E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\transformer-babel\src\constants.js134134003454704195 0
-62E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.3464ddca.js134134009211436332 0
 90E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\transformer-babel\src\flow.js134134003455130306 0
 89E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\transformer-babel\src\jsx.js134134003455504308 0
 93E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\@parcel\core\test\fixtures\default-serve134134003465737066 1
@@ -4114,7 +4113,6 @@
 68E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\.bin\semver.cmd134134003478114697 0
 68E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\.bin\semver.ps1134134003478114697 0
 84E:\WebDevRohitVSCODE\React_Folder\part7\node_modules\.bin\update-browserslist-db.ps1134134003478114697 0
-55E:\WebDevRohitVSCODE\React_Folder\part7\dist\index.html134134018534223912 0
-66E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.3464ddca.js.map134134009211620566 0
-67E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.3a01df49.css.map134134018535431472 0
-66E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.f72d0d54.js.map134134018535006774 0
+55E:\WebDevRohitVSCODE\React_Folder\part7\dist\index.html134134125115164504 0
+67E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.3a01df49.css.map134134125115565469 0
+66E:\WebDevRohitVSCODE\React_Folder\part7\dist\part7.f72d0d54.js.map134134126139791491 0

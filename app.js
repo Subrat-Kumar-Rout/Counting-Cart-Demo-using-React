@@ -1,6 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
 import Header from "./header"
+import Card from "./card"
 
 
 let arr = [
@@ -21,11 +22,18 @@ function Swigy(){
     return(
         <>
         <Header></Header>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: "20px" }}>
         {
-            arr.map((value){
-                <card value="value"></card>
-            })
-        }
+            arr.map((value)=>(
+                
+                <div key={value.key} >
+                <Card value={value}/>
+                </div>
+                
+            )
+            )
+        }</div>
+        
         </>
     )
 }

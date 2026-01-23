@@ -24,7 +24,7 @@ function Swigy(){
     return(
         <>
         <Header></Header>
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "20px" }}>
+        <div className="content">
         {
             arr.map((value)=>(
                 

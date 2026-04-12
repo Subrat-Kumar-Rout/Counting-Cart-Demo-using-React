@@ -1,1 +1,1 @@
-#->*Counting cart Demo Project for understanding Reactjs more indepth.*
+#-> *Counting cart Demo Project for understanding Reactjs more indepth.*
